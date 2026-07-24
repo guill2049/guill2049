@@ -4,7 +4,7 @@
 
 ### 💻 Web Developer · 🎨 Front-end Specialist
 
-Atuo no desenvolvimento web com foco em criar aplicações interativas, escaláveis e com arquitetura limpa. Apaixonado por transformar ideias em experiências funcionais e bem estruturadas. Cursando Análise e Desenvolvimento de Sistemas e participante do programa de residência no Porto Digital.
+Atuo no desenvolvimento web com foco em criar aplicações interativas, escaláveis e com arquitetura limpa. Apaixonado por transformar ideias em experiências funcionais e bem estruturadas. Cursando Informática para Internet e participante do programa de residência no Porto Digital.
 
 ---
 
