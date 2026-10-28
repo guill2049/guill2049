@@ -1,8 +1,8 @@
  <div align="center">
 
-# 👋 Olá, eu sou Guilherme Andrade
+# Olá, eu sou Guilherme Andrade
 
-### 💻 Web Developer · 🎨 Front-end Developer · ⚙️ Full Stack in Progress
+### Web Developer · Front-end Developer · Full Stack in Progress
 
 Desenvolvedor web em formação, com foco em criar aplicações interativas, funcionais e bem estruturadas. Tenho experiência com desenvolvimento Front-end e estou expandindo meus conhecimentos em Back-end, APIs e bancos de dados, utilizando C# e .NET. Cursando Informática para Internet e participante do programa de residência no Porto Digital, sempre buscando evoluir por meio de projetos práticos e aprendizado contínuo.
 
